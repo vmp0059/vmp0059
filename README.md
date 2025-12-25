@@ -38,8 +38,8 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **yourmail@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-linkedin-username**
+- 📧 Email: **vaishnavimpatil.987@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/vaishnavi-patil-a333992ab/**
 
 ---
 
