@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Vaishnavi%20Patel&fontSize=42&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:203a43&height=200&text=Hi%20👋%20I'm%20Vaishnavi%20Patel&fontColor=ffffff&animation=blink" />
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
 <h3 align="center">A passionate developer from India </h3>
 
