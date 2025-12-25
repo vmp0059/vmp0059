@@ -1,6 +1,7 @@
 ## Hi there 👋
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750199-7d52c7f4-58b1-4e49-8b5a-6d8e8b6d2e8a.gif" width="100%">
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
