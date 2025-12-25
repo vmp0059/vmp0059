@@ -1,5 +1,11 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:203a43&height=200&text=Hi%20👋%20I'm%20Vaishnavi%20Patel&fontColor=ffffff&animation=blink" />
+<img src="CAPSULE_HEADER_URL" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Frontend+Developer;ML+Explorer&center=true&width=500">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer" />
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
 <h3 align="center">A passionate developer from India </h3>
