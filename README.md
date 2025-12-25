@@ -1,7 +1,6 @@
 ## Hi there 👋
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=220&section=header&text=Vaishnavi%20Patel&fontSize=42&fontAlignY=35&desc=Backend%20%7C%20Frontend%20%7C%20ML%20Learner&descAlignY=55" />
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
