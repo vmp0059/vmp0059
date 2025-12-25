@@ -1,9 +1,6 @@
-## Hi there 👋
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontAlignY=35" />
-</p>
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
