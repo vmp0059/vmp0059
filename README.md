@@ -1,8 +1,5 @@
 ## Hi there 👋
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212750199-7d52c7f4-58b1-4e49-8b5a-6d8e8b6d2e8a.gif" width="100%">
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontAlignY=35" />
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
 <h3 align="center">A passionate developer from India </h3>
