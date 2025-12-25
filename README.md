@@ -2,10 +2,9 @@
 <img src="CAPSULE_HEADER_URL" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Frontend+Developer;ML+Explorer&center=true&width=500">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontAlignY=35" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer" />
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
 <h3 align="center">A passionate developer from India </h3>
